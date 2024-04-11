@@ -32,6 +32,8 @@ Author: Arulprasath
 
 13.Adding group video call feature
 
+13.1. Adding a status feature to play status train
+
 14.Adding new feature in status Hiding
 
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
